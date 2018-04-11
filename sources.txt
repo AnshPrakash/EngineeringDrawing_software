@@ -1,0 +1,9 @@
+https://www.google.co.in/search?client=ubuntu&channel=fs&dcr=0&biw=1440&bih=713&ei=jsLNWpjPFYHbvASTyrGACQ&q=how+to+translate+and+rotate+3D+objects+in+Opengl+in+C%2B%2B+using+glut&oq=how+to+translate+and+rotate+3D+objects+in+Opengl+in+C%2B%2B+using+glut&gs_l=psy-ab.3...7148.10884.0.11204.11.11.0.0.0.0.220.1734.0j7j2.9.0....0...1c.1.64.psy-ab..2.4.802...33i160k1j33i21k1.0.wZsSHCh1HUk
+
+
+https://www.codemiles.com/c-opengl-examples/draw-3d-cube-using-opengl-t9018.html
+http://www.falloutsoftware.com/tutorials/gl/gl3.htm
+
+https://cpp.wonderhowto.com/how-to/create-spinning-3d-cube-with-opengl-glut-and-c-360443/
+https://www.badprog.com/c-opengl-using-glrotatef-to-rotate-around-the-x-y-and-z-axis
+https://www.codeproject.com/Articles/23666/OpenGL-D-Navigation-glRotatef-glTranslatef-gluLoo
